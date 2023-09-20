@@ -1,1 +1,1 @@
-# alaram-resp
+# alarm-resp
